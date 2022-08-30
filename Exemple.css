@@ -18,20 +18,11 @@ body {
     margin: 0;
     border: none;
 }
-.zone {
-    position: absolute;
-    right: 0%;
-    top: 0%;
-    width: 200px;
-    height: 500px;
-    background-color: blue;
-    z-index: 10;
-}
 
 .btn-return {
     position: absolute;
     cursor: pointer;
-    background: rgba(255, 0, 0, 0.503);
+    background: none;
     top: 20px;
     left: 20px;
     width: 150px;
