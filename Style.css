@@ -112,7 +112,7 @@ h2 {
     position: relative;
     color: aliceblue;
     left: 34px;
-    top: 0px;
+    top: 20px;
     margin: 0%;
     background-color: #216778ff;
     width: 200px;
@@ -122,10 +122,10 @@ h2 {
     position: relative;
     width: 1000px;
     left: 0px;
-    top: 0px;
     color: aliceblue;
     margin: 0%;
     padding: 34px;
+    padding-top: 60px;
 }
 
 
@@ -147,7 +147,8 @@ h2 {
         width: 100%;
     }
     .p1-txt-1 {
-        width: 100%;
+        width: 85%;
+        left: 0px;
     }
 
     .container-offres {
@@ -277,7 +278,7 @@ h2 {
         left: 34px;
         color: aliceblue;
         font-size: 10pt;
-        width: 100vw;
+        width: 85vw;
     }
     .container-offres {
         position: relative;
